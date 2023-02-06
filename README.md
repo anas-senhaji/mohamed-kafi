@@ -3,7 +3,6 @@ Development of a web-based task management application for teams, you can use Tr
 
 ### The application would allow to:
 
-* Register
 * Authenticate
 * Create projects,
 * Add tasks to these projects,
@@ -24,7 +23,7 @@ Development of a web-based task management application for teams, you can use Tr
 Développement d'une application de gestion de tâches en ligne pour les équipes, vous pouvez utiliser Trello comme inspiration.
 
 ### L'application permettrait de :
-* Enregistrer
+
 * Authentifier
 * Créer des projets,
 * Ajouter des tâches à ces projets,
