@@ -30,7 +30,7 @@ Développement d'une application de gestion de tâches en ligne pour les équipe
 * Assigner des tâches à des membres d'équipe
 * Suivre l'avancement des tâches avec un statut
 
-##### Technologies et utilitaires à utiliser :
+### Technologies et utilitaires à utiliser :
 
 * Laravel (API REST)
 * JWT (Auth)
